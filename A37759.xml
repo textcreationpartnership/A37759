@@ -1,0 +1,321 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the Lords and Commons of the Parliament of England to the high and mighty lords, the states of the United Provinces.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37759</idno>
+            <idno type="STC">Wing E1470</idno>
+            <idno type="STC">ESTC R22547</idno>
+            <idno type="EEBO-CITATION">12302877</idno>
+            <idno type="OCLC">ocm 12302877</idno>
+            <idno type="VID">59174</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37759)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 59174)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 248:E121, no 23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the Lords and Commons of the Parliament of England to the high and mighty lords, the states of the United Provinces.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A. N. for Richard Best,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>October 8, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>United Provinces of the Netherlands. --  Staten Generaal.</term>
+               <term>Great Britain --  Foreign relations --  Netherlands.</term>
+               <term>Netherlands --  Foreign relations --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:59174:1" rendition="simple:additions"/>
+            <p>A DECLARATION Of the Lords and Commons of the Parliament of ENGLAND, TO The High and Mighty Lords, the States of the <hi>United Provinces.</hi>
+            </p>
+            <p>LONDON, Printed by <hi>A. N.</hi> for <hi>Richard Beſt,</hi> October 8. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dedication">
+            <pb n="1" facs="tcp:59174:2"/>
+            <opener>
+               <salute>High and mighty Lords,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Ee are Commanded by the Lords and Commons aſſem<g ref="char:EOLhyphen"/>bled in the Parliament of <hi>England</hi> to ſignifie to your Lordſhips, that they have choſen and appointed the beares hereof <hi>Walter Strickland</hi> Eſquire, to repaire to your Lordſhips, and to preſent to you in their names, and in the name of the whole Kingdom a Declaration, and ſome propoſitions and deſires very much, importing the maintenance of the Proteſtant Religion, which is the ſureſt founda<g ref="char:EOLhyphen"/>tion of the ſafetie and proſperitie of this Kingdome and your ſtates, and the antient amitie between us to the advantage of both, deſiring your Lordſhips to give eare to what ſhall be delivered or propounded to you by the ſame Maſter <hi>S<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ickland.</hi> And to expe<g ref="char:EOLhyphen"/>dite your anſwer thereunto, in ſuch manner as ſhall ſtand with your wiſedomes, and the due reſpects of the common good of this S<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e and of your ſelves, which is the earneſt deſire of.</p>
+            <closer>
+               <signed>Your affectionate friends and ſervants.
+<list>
+                     <item>
+                        <hi>Maud<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>vile</hi> Speaker <hi>pro temp<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>re</hi> for the Lords houſe.</item>
+                     <item>
+                        <hi>William Lenthall</hi> Speaker of the Houſe of Commons.</item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>To the high and mighty Lo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ds, the States of the Vnited Provinces.</trailer>
+         </div>
+         <div type="text">
+            <pb n="2" facs="tcp:59174:2"/>
+            <head>The Declaration of the Lords and Commons of the Parliament of <hi>England,</hi> to the high and might is Lords, the States of the <hi>United Provinces.</hi>
+            </head>
+            <p>WE the Lords and Commons in Parliament aſſembled, taking into ſerious conſidera<g ref="char:EOLhyphen"/>tion the means of compoſing the great diſtempers and combuſtions begun in this Kingdome, which threaten the deſtruction &amp; ruine of it, &amp; of all other Proteſtant Princes and States, have thought good to make this Declaration to the high and mighty Lords, the States of the <hi>Vnited Provinces,</hi> That wee underſtand by a Letter of the Lord <hi>Digby,</hi> a perſon fled out of this Kingdome for high Treaſon: That as he often endeavoured by his wicked and malici<g ref="char:EOLhyphen"/>ous Counſels to make diviſion between his Majeſty and the Parliament, and hath been in great part the cauſe of that miſerable and unnaturall warre which is made againſt us by his Majeſtie, ſo he hath labou<g ref="char:EOLhyphen"/>red by all means in the <hi>Vnited Provinces</hi> to provide Armes, powder, and Amunition for the fomenting of that war, and making it more dangerous to this Kingdome; And for this purpoſe did addreſſe him<g ref="char:EOLhyphen"/>ſelfe to the Prince of <hi>Orange</hi> by whoſe countenance and help (as we are informed by the Lord <hi>Digbyes</hi> own Letters) he hath made proviſion of great quan<g ref="char:EOLhyphen"/>tities of Ordnance, powder, Armes, and divers o<g ref="char:EOLhyphen"/>ther ſorts of warlike proviſion.</p>
+            <p>And we are further informed by credible adver<g ref="char:EOLhyphen"/>tiſement, that the Prince of <hi>Orange</hi> in favour of the Lord <hi>Digby,</hi> and thoſe other wicked Counſellours &amp; incendiaries, who being joyned together in theſe miſchievous practiſes againſt the peace of this King<g ref="char:EOLhyphen"/>dome, hath not only licenced, but the better to en<g ref="char:EOLhyphen"/>courage
+<pb n="3" facs="tcp:59174:3"/>
+divers Commanders, experienced Offi<g ref="char:EOLhyphen"/>cers, and Souldiers to reſort into this Kingdome in aid of them againſt the Parliament, hath promi<g ref="char:EOLhyphen"/>ſed to reſerve their places for them in their ab<g ref="char:EOLhyphen"/>ſence, and doth cauſe other proviſion of the ſame kind to be made and prepared to bee ſent over for their ſupply, to the great hurt of this Kingdome, and the danger of interrupting the moſt neceſſary, profitable, and long continued amity between the two States.</p>
+            <p>We further deſire to let them know that we can<g ref="char:EOLhyphen"/>not believe that this is done by any authority or di<g ref="char:EOLhyphen"/>rection from their Lordſhips, conſidering the great help that they have received from this Kingdome, when heretofore they lay under the heavy oppreſ<g ref="char:EOLhyphen"/>ſion of their Princes, and how conducible the friendſhip of this Nation (concurring with the wiſdom, valour and induſtry of their owne peo<g ref="char:EOLhyphen"/>ple) hath bin to the greatneſſe and power which they now enjoy.</p>
+            <p>Neither can we think that they will be forward to help to make us ſlaves who have bin uſefull and aſſiſtant in making them freemen.</p>
+            <p>Or that they will forget that our troubles and dangers iſſue from the ſame fountaine with their own, and that thoſe who are ſet a worke to under<g ref="char:EOLhyphen"/>mine Religion and Liberty in the Kingdome are the ſame, which by open force did ſeek to bereaue them of both.</p>
+            <p>It cannot be unknown to that wiſe State, that it is the Jeſuiticall faction here, that hath corrupted the Counſels of our King, the conſciences of a
+<pb n="4" facs="tcp:59174:3"/>
+great part of our Clergy, which hath plotted ſo many miſchievous Deſignes, to deſtroy the Par<g ref="char:EOLhyphen"/>liament, and ſtill endeavoureth to divide Ireland from this Kingdome, by a moſt wicked and cruell Rebellion there, and to divide the King from his Parliament and People here, and by falſe ſlanders, and imputations of things never done nor intend<g ref="char:EOLhyphen"/>ed by us, hath incenſed his Majeſty ſo as that after many bitter invectives publiſhed againſt us with<g ref="char:EOLhyphen"/>out any juſt cauſe given, he hath now at laſt reſol<g ref="char:EOLhyphen"/>ued to ſet up his Royall Standard, and draw his ſword for the deſtruction and ruine of his moſt faithfull and obedient people, whom by the Laws and Conſtitutions of this Kingdom hee is bound to preſerve and protect.</p>
+            <p>The Caſes and the Fortunes of both Eſtates being ſo involved and united, wee cannot expect to be hindred by them in our juſt defence, or that they will doe any thing, to aggravate the miſeries and troubles of this Kingdome, in the peace and happineſſe whereof they have found much advan<g ref="char:EOLhyphen"/>tage, and by ſuch unfriendly and unſeaſonable ſup<g ref="char:EOLhyphen"/>plyes of our common Enemies, make a way to their own aſwell as our ruine.</p>
+            <p>Wee therefore deſire they may betimes looke into this miſchief, and having ſearched it into the bottom to ſtop the farther progreſſe of it, That they will not ſuffer more Ordnance, Armour, or any other like warlike proviſion to be brought o<g ref="char:EOLhyphen"/>ver to ſtrengthen thoſe, who aſſoone as they ſhall prevail againſt the Parliament (according to their principles and intereſts by which they are guided)
+<pb n="5" facs="tcp:59174:4"/>
+will uſe that ſtrength to the ruine of thoſe from whom they have had it.</p>
+            <p>VVe deſire they would not ſend over any Coun<g ref="char:EOLhyphen"/>trymen to further our deſtruction, who were ſent to them for their preſervation, That they will not anticipate the ſpilling of Engliſh blood in a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> unnaturall Civill VVar, which hath been ſo cheer<g ref="char:EOLhyphen"/>fully and plentifully hazarded and ſpent in that juſt and honorable VVar by which they have been ſo long preſerved, and to which the bloud of thoſe perſons, and many other Subjects of this King<g ref="char:EOLhyphen"/>dome is ſtill in a manner dedicated, but rather that they will caſhiere and diſcard from their employ<g ref="char:EOLhyphen"/>ment thoſe that will preſume to come over for that purpoſe.</p>
+            <p>And in ſatisfying theſe our reaſonable and ne<g ref="char:EOLhyphen"/>ceſſary deſires, they ſhall thereby not only ſecure us but themſelves, yea, they ſhall moſt of all ad<g ref="char:EOLhyphen"/>vantage his Majeſty, for whoſe ſervice thoſe things are pretended to be done.</p>
+            <p>The queſtion betweene his Majeſty and Par<g ref="char:EOLhyphen"/>liament is not, whether hee ſhall enjoy the ſame prerogative and power which hath belonged to our former Kings, his Majeſties Royall Predeceſ<g ref="char:EOLhyphen"/>ſours, but whether that prerogative and power ſhould be employed to our defence, or to our ruine.</p>
+            <p>VVe expect nothing from him but ſecurity and protection from thoſe miſchievous deſignes which have bin ſo often multiplyed and renewed againſt us, though hitherto (through Gods providence) as often fruſtrated.</p>
+            <p>It cannot be denyed by th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe who look indiffe<g ref="char:EOLhyphen"/>rently
+<pb n="4" facs="tcp:59174:4"/>
+on our proceedings and affairs, but that it will be more honour and wealth, ſafety and great<g ref="char:EOLhyphen"/>neſſe to his Majeſty in concurring with his Parlia<g ref="char:EOLhyphen"/>ment, then in the courſe in which hee now is: But ſo unhappy hath his Majeſty and the Kingdome bin in thoſe, who have the greateſt influence upon his Counſels, that they look more upon the pre<g ref="char:EOLhyphen"/>vayling of their owne party, then upon any thoſe great advantages both to his Crowne and Royall perſon which he might obtain by joyning with his people. And ſo cunning are thoſe Factors for po<g ref="char:EOLhyphen"/>pery, in proſecution of their own aymes, that they can put on a counterfeit viſage of honour, peace, &amp; greatneſſe upon thoſe courſes and counſels, which have no truth and reality, but of weakneſſe, diſho<g ref="char:EOLhyphen"/>nour, and miſeries to his Majeſty and whole King<g ref="char:EOLhyphen"/>dome.</p>
+            <p>VVe have lately expreſſed our earneſt inclinati<g ref="char:EOLhyphen"/>ons to that Nationall love and amity with the United Provinces which is nouriſhed and confir<g ref="char:EOLhyphen"/>med by ſo many civill reſpects and mutuall inte<g ref="char:EOLhyphen"/>reſts, as makes it ſo naturall to us, that we have this Parliament in our humble Petition to his Majeſty, deſired, wee might be joyned with that State in a more neere and ſtrait league and union; And wee cannot but expect ſome returnes from them of the like expreſſions; And that they will be ſo far from blowing the fire which begins to kindle amongſt us, that they will rather endeavour to quench it by ſtrengthening and encouraging us, who have no o<g ref="char:EOLhyphen"/>ther deſigne but not to be deſtroyed, and preſerve our Religion, ſave our ſelves and the other refor<g ref="char:EOLhyphen"/>med
+<pb n="7" facs="tcp:59174:5"/>
+Churches of Chriſtendome from the <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> acres and extirpations with which the princ<gap reason="illegible" resp="#UOM" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap> of the popiſh Religion do threaten us &amp; <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> which are begun to be acted in Ireland, and <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> hopes, endeavours and intentions of that <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> had long ſince been executed upon us, if the <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>cy, favour, and bleſſing of Almighty God had <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſuperabounded, and prevented the ſub<gap reason="illegible" resp="#UOM" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap> and malignity of cruell wicked and bloodthi<gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> men.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="text">
+            <pb facs="tcp:59174:6"/>
+            <head>A CONTINUATJON OF Speciall Remarkable Paſſages, from both Houſes of Parliament: From Munday <date>the 3<hi rend="sup">d.</hi> of <hi>Octob.</hi> till the 6<hi rend="sup">th.</hi> of <hi>Octob.</hi> 1642.</date>
+            </head>
+            <p>MUnday there came Letters to the Parliament out of <hi>Lancaſhire</hi> from <hi>Mancheſter,</hi> intimating that there hath lately beene a great fight between the Towne, of <hi>Mancheſter</hi> and the Lord <hi>Strange,</hi> who ſet upon the Towte, having at leaſt 2000. men, but the Towneſmen did ſo bravely acquit themſelves, that they ſlow ſix ſcore of his men, and tooke foureſcore Priſoners, and cau<g ref="char:EOLhyphen"/>ſed them to retreate towards <hi>Preſton,</hi> the Towneſmen loo<g ref="char:EOLhyphen"/>ſing but five men in all, three of them being accidentally ſlaine by their fellowe Souldiers. They doe earneſtly deſire ſome ſpeedy aid from the Parliament which was intended to have been ſent unto them by the Lord General from <hi>
+                  <g ref="char:V">Ʋ</g>
+                  <g ref="char:V">Ʋ</g>or<g ref="char:EOLhyphen"/>ceſter:</hi> Eut the Parliament having received Information that his Majeſtie intends to drawe all the forces hee can poſſible together to meete the Lord Generall. It was not thought convenient that his Excellency ſhould ſend any of thoſe for<g ref="char:EOLhyphen"/>ces that are with him to <hi>Mancheſter,</hi> but the Houſe have ta<g ref="char:EOLhyphen"/>ken
+<pb facs="tcp:59174:7"/>
+order that a thouſand Dragoniers ſhall forthwith be <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſed in <hi>London</hi> upon the Propoſitions and bee ſent thither <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>der the command of Sir <hi>Edward Ceton</hi> for it is very <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> feared by the Towne that the Lord <hi>Strange</hi> will make <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>no<g ref="char:EOLhyphen"/>thet attempt againſt it very ſuddenly, and they are reſolved to try it out with him and not to yeeld, they having <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 2. pieces of Ordnance into the Towne, and are caſting their Bells into Ordnance, whereby they may the better defend themſelves untill more ayd and aſsiſtance can bee ſent unto them.</p>
+            <p>Letters came from the Earle of <hi>Warwick</hi> intimating that he had lately taken 2. ſhips loden with ſtore of Arms, and Ammunition, and about ſeven hundred thouſand pounds in Money, which was comming out of <hi>Denmarke</hi> to aſsiſt the King.</p>
+            <p>A Letter came from the Earle of <hi>Eſsex</hi> ſignifying that hee had ſent to the Earle of <hi>Dorſet</hi> to acquaint him that he had a Petition to preſent to his Majeſtie from both Houſes of Parliament, deſiring his Lo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dſhip to acqua<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt his Majeſtie therewith, and that hee might be informed of ſome fitting way or meanes for the preſenting thereof to his Majeſtie which for the preſent the Earle of <hi>Eſsex</hi> could not doe in re<g ref="char:EOLhyphen"/>gard he knewe not certainly whether his Majeſtie would re<g ref="char:EOLhyphen"/>ceive it, or how it ſhould come peaceably to him, whereup<g ref="char:EOLhyphen"/>on the Earle of <hi>Dorſet</hi> ſent a Letter to the Earle of <hi>Eſsex</hi> in<g ref="char:EOLhyphen"/>timating that he had acquainted his Majeſtie therewith who anſwered that he would alwayes have his eare open to any Petition that came from the Parliament but would not re<g ref="char:EOLhyphen"/>ceive any from the hands of Traytors or any that he had proclaimed ſoe.</p>
+            <p>Whereupon being put to the Queſtion it was voted to this effect. <hi>viz.</hi>
+            </p>
+            <p>That for his Majeſtie to deny the receiving of any Petiti<g ref="char:EOLhyphen"/>on by the hands of thoſe that he accompts to be Traytors, is in effect a flat denyall of receiving any Petition at all from them, for in proclayming the Earle of <hi>Eſsex</hi> a Traytor hee had proclaymed the whole Parliament Traytors ſo that his
+<pb facs="tcp:59174:7"/>
+Majeſties refuſing to receive this petition was a great abridg<g ref="char:EOLunhyphen"/>ment of the <hi>Priviledge of Parliament,</hi> and therfore voted; that the ſaid Earl ſhould advance forwards with his forces, and that the <hi>Earl of Eſſex</hi> ſhould uſe ſome means that thoſe votes of the h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſe ſhould be preſented to his Majeſty.</p>
+            <p>On <hi>Tueſday</hi> morning letters were read in the houſe, which came frow <hi>Yorkshire,</hi> certifying the houſe, that ſince the ta<g ref="char:EOLhyphen"/>king up of Arms in that County under the Command of the L. <hi>Fairfaxe</hi> againſt the <hi>Earl of Cumberland</hi> and his <hi>Cavaleers,</hi> there was a Treaty of Peace, and certain Articles agreed up<g ref="char:EOLhyphen"/>on on both ſides, whereby they agreed that Armes ſhould be laid down on both ſides, and th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t they ſhould ſtand a Neuters between the <hi>King and Parliam<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt,</hi> and preſerve the peace of the County againſt all Fo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ces that ſhould come againſt them and that his Majeſty ſhall have libe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ty to remove all the Ca<g ref="char:EOLhyphen"/>nons and Ammunition as he hath in t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at county, except ſuch as M. <hi>Hotham</hi> brought from <hi>Hull,</hi> with divers o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her Articles very prejudiciall to that county: but Mr. <hi>Hotham</hi> and many others that were for the <hi>Parliament</hi> did utte<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly refuſe to joyn in the ſaid agreement, but were gone to <hi>Doncaſter</hi> there to remain with thoſe Fo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ces they had, untill they hear what fur<g ref="char:EOLhyphen"/>ther d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rections they ſhall receive from the <hi>Barliament.</hi>
+            </p>
+            <p>It was alſo certified by le<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ers to the houſe, that Sir <hi>Ed<g ref="char:EOLhyphen"/>ward H<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ron</hi> high Sheriffe of Yorkſhire, which formerly hath ſhewed a good affection to the <hi>Parliament,</hi> had a great hand in drawing on the county to agree to thoſe Articles.</p>
+            <p>At which agreement the houſe was much diſcontented, and after long debate therof, a Declaration was drawn up, ſhewing, that none of the parties had any authority to bind the County to any ſuch Neutrality, it being a priviledge pe<g ref="char:EOLhyphen"/>culiar to the <hi>Parliament</hi> onely,</p>
+            <p>Secondly, That it is very prejudiciall to the whole King<g ref="char:EOLhyphen"/>dome. Thirdly, that it is derogatory to the power and au<g ref="char:EOLhyphen"/>thority of Parliament. Fourthly, That many things in that A<g ref="char:EOLhyphen"/>greement, are very unequall, contrary to the nature o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Neu<g ref="char:EOLhyphen"/>trality, being more advantagious to one ſide then another, and would be a great Impeachment to that good Agreement be<g ref="char:EOLhyphen"/>twixt his Majeſty and his ſubjects, which both houſes do e<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>neſtly deſire.</p>
+            <pb facs="tcp:59174:8"/>
+            <p>Information was alſo given to the houſe, that although the County of <hi>Hereford</hi> for the greateſt part therof, were hereto<g ref="char:EOLhyphen"/>fore againſt the <hi>Parliament,</hi> they are now better informed in their Judgments, and begin to incline much towards the <hi>Par<g ref="char:EOLhyphen"/>liament</hi> be<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng much incenſed againſt the Cavaleers, and have ſent 350. men to <hi>Worceſter</hi> to aid and aſſiſt the <hi>Parliament,</hi> under the Lord Generall.</p>
+            <p>There was Letters came to the houſe on <hi>
+                  <g ref="char:V">Ʋ</g>
+                  <g ref="char:V">Ʋ</g>edneſday,</hi> that the Lord <hi>
+                  <g ref="char:V">Ʋ</g>
+                  <g ref="char:V">Ʋ</g>illoughby</hi> of <hi>Parham</hi> in the County of <hi>Lin<g ref="char:EOLhyphen"/>coln,</hi> ſignifying that he had received inſtruction from the houſe, for the aiding and aſsiſting of <hi>Yorkshire</hi> againſt the E. of <hi>Cumberland,</hi> and that notwithſtanding the Treaty and agree<g ref="char:EOLhyphen"/>ment that was made between the L. <hi>Fairfaxe</hi> and the reſt of the Gentry and the Earl of <hi>Cumberland:</hi> yet he intends to go on according to his inſtructions, and that on <hi>Thurſday</hi> next the whole body of <hi>Yorkshire</hi> were to meet, according to appoint<g ref="char:EOLhyphen"/>ment at their making of the ſaid Agreement; at which mee<g ref="char:EOLhyphen"/>ting they expect to hear the pleaſure of the houſe, which doubtleſſe they w<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll preſent for the whole weſt Ryding, and a great other part of that County, were diſaſcenting to the ſaid Agreement.</p>
+            <p>Letters were read in the houſe of Commons, intimating that the City of <hi>Hereford</hi> being apprehenſiue of the danger that they were in be reaſon of the Cavaleers, which they fea<g ref="char:EOLhyphen"/>red would ſurprize that City, and ſo expoſe them to much danger, as they had done lately at <hi>Worſter,</hi> they ſent to the E. of <hi>Eſſex,</hi> ſhewing that they deſired to aſsiſt the <hi>Parliament,</hi> but becauſe there was a great Malignant party in the City, thoſe that were well-affected did not dare to ſtand upon their guard without they had ſome forces ſent from the <hi>Parliament</hi> which they might cleave unto. Wherupon his Excellency ſent one thouſand foot, and four Troopes of horſe to make good that City, and to ſettle the <hi>Militia</hi> there, and that a ſufficient Garriſon ſhould ſtay there to maintain the peace thereof.</p>
+            <p>Letters came out of <hi>Somerſetſhire,</hi> intimating that Sir <hi>Ralph Hopt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n</hi> with about 100 men were gone into <hi>Cornwall,</hi> but the Marquis of <hi>Hartford</hi> was in <hi>Monmouthſhire in <g ref="char:V">Ʋ</g>
+                  <g ref="char:V">Ʋ</g>ales,</hi> and
+<pb facs="tcp:59174:8"/>
+that the Earl of <hi>Bedford</hi> had left a ſtrong garriſon at <hi>Mi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>head</hi> and ſeverall other places, to keep the Marquis from com<g ref="char:EOLhyphen"/>ming back again to any of thoſe ſtrong holds.</p>
+            <p>There was alſo upon Thurſday laſt, being the ſixth of October, a packet of Letters brought to the Houſe from Yarmouth, which were taken comming out of Holland with a ſhip and divers other things together with many Commanders therein, comming from the Queen to aſſiſt his Majeſty, which were taken in this manner, viz.</p>
+            <p>On Monday night laſt, there was a ſhip driven in a Yarmouth by a contrary wind (it being bound for Newcaſtle) which came out of Holland being a ſhip which her Majeſty bought with her own money, and had ſent it before to his Majeſty, the Queen her ſelfe as his ſuppoſed being very ſhortly to come after, ha<g ref="char:EOLhyphen"/>ving ſhipping prepared for her conduct, which ſhip was ſearched at Yarmouth, and about 140. Comman<g ref="char:EOLhyphen"/>ders were in it, and twelve pieces of Ordnance, with great ſtore of powder, &amp;c. which were brought up to London.</p>
+            <p>This day Newes was brought to the Houſe, that Prince Robert with about ten Troops of horſe was at Bridgenorth, the Kings Majeſty being for the moſt part at Shrewsbury, and it was conceived that the E. of Eſſex with his mayne Army are now upon their march toward Bridgnorth, where the King hath drawn his main forces his Excellency being now in the mid<g ref="char:EOLhyphen"/>way between VVorſter and Bridgnorth, having left a ſtrong Garriſon in Bewdly, which ſtands upon the River of Severn, and ſo the two Armies being drawne ſo neer together, it is very probable they will have a<g ref="char:EOLhyphen"/>nother Battle very ſhortly.</p>
+            <pb facs="tcp:59174:9"/>
+            <p>
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to have bin ſome of the <hi>Friars Treaſure,</hi> but being o<g ref="char:EOLhyphen"/>pened, there was nothing in it of any great conſe<g ref="char:EOLhyphen"/>quence.</p>
+            <p>Vpon <hi>Friday</hi> there was a Conference of both <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſes, concerning the preſenting of the petition which the E. of Eſſex hath to be preſented to the King, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ageeed that in regard his Majeſty had refuſed to ac<g ref="char:EOLhyphen"/>cept thereof from any that he had proclaimed to b<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>traytors, and in ſo doing, he had denyed to receive any petition from the <hi>Parliament.</hi> It was agreed that Hi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Excellency ſhould proceede according to his Inſtr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ctions, and that he ſhould uſe ſuch means for the pre<g ref="char:EOLhyphen"/>ſenting of the ſaid petition to his Majeſty, as he ſhold think fit, and therupon a Poſt was ſent away to his Ex<g ref="char:EOLhyphen"/>cellency with Letters to that effect.</p>
+            <p>Letters was reade in the houſe which came out of Holland from M, <hi>Strickland,</hi> intimating that the queen had provided 4. ſhips to come into England with men and ammunition to aſſiſt his Maj. and that the States of Holland had made ſtay therof, and that the united Provinces did profeſſe much love and affection to the <hi>Parliament,</hi> and was very vigilant that no proviſion of Men, Arms, or Moneys, ſhould come from thence to aid his Majeſty in this unnatural war againſt his good Subiects.</p>
+            <p>VVherupon it was agreed, that a Letter of thankes ſhould bee ſent to the States of Holland, for their faithfulneſſe to this Kingdome.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>October</hi> 8. printed for <hi>Robert Wood,</hi> 1642.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
